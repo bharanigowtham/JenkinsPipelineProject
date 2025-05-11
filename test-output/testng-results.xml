@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-11T17:32:42 MYT" name="Default suite" finished-at="2025-05-11T17:32:42 MYT" duration-ms="92">
+    <groups>
+    </groups>
+    <test started-at="2025-05-11T17:32:42 MYT" name="Default test" finished-at="2025-05-11T17:32:42 MYT" duration-ms="92">
+      <class name="com.testng.annotations.Annotations">
+        <test-method is-config="true" signature="prepareEnvironment()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="prepareEnvironment" finished-at="2025-05-11T17:32:42 MYT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareEnvironment -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="initializeDriver" finished-at="2025-05-11T17:32:42 MYT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method is-config="true" signature="AppLaunch()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="AppLaunch" finished-at="2025-05-11T17:32:42 MYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppLaunch -->
+        <test-method is-config="true" signature="doLogin()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="doLogin" finished-at="2025-05-11T17:32:42 MYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method signature="executingtheTestcase1()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="executingtheTestcase1" finished-at="2025-05-11T17:32:42 MYT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executingtheTestcase1 -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="doLogout" finished-at="2025-05-11T17:32:42 MYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="doLogin()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="doLogin" finished-at="2025-05-11T17:32:42 MYT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method signature="executingtheTestcase2()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="executingtheTestcase2" finished-at="2025-05-11T17:32:42 MYT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executingtheTestcase2 -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="doLogout" finished-at="2025-05-11T17:32:42 MYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="closetheappBrowser()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="closetheappBrowser" finished-at="2025-05-11T17:32:42 MYT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closetheappBrowser -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:42 MYT" name="closeDriver" finished-at="2025-05-11T17:32:42 MYT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="prepareReports()[pri:0, instance:com.testng.annotations.Annotations@77888435]" started-at="2025-05-11T17:32:43 MYT" name="prepareReports" finished-at="2025-05-11T17:32:43 MYT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareReports -->
+      </class> <!-- com.testng.annotations.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
